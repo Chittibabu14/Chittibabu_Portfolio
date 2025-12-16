@@ -1,7 +1,7 @@
-A modern, responsive personal portfolio built using Next.js to showcase my skills, projects, and journey as a Cybersecurity student & fresher.
-
-
-🔐 About Me
+**A modern, responsive personal portfolio built using Next.js to showcase my skills, projects, and journey as a Cybersecurity student & fresher.
+**
+**
+🔐 About Me**
 
 I am a final-year B.Tech Cybersecurity student with hands-on exposure to:
 
@@ -17,9 +17,9 @@ CTF challenges and security projects
 
 This portfolio is created to present my skills, projects, resume, and contact details in a professional way.
 
-
+**
 🚀 Tech Stack
-
+**
 Framework: Next.js (React)
 
 Language: TypeScript
@@ -32,8 +32,8 @@ Deployment: Vercel
 
 Version Control: Git & GitHub
 
-
-✨ Features
+**
+✨ Features**
 
 Responsive modern UI
 
@@ -47,20 +47,28 @@ Contact form
 
 SEO-friendly structure
 
-
-📂 Project Structure
+**
+📂 Project Structure**
 
 Chittibabu_Portfolio/
+
 ├── app/                # Next.js app router
+
 ├── components/         # Reusable UI components
+
 ├── public/             # Assets (images, CSS, resume)
+
 ├── util/               # Utility functions
+
 ├── package.json
+
 ├── next.config.mjs
+
 └── README.md
 
 
-🛠️ Installation & Local Setup
+**
+🛠️ Installation & Local Setup**
 
 git clone https://github.com/Chittibabu14/Chittibabu_Portfolio.git
 
@@ -75,13 +83,13 @@ Open in browser:
 
 👉 http://localhost:3000
 
-
-📄 Resume
+**
+📄 Resume**
 
 My resume is available directly from the portfolio website.
 
-
-📬 Contact
+**
+📬 Contact**
 
 Email: Chittibabubaviseeti14@example.com
 
@@ -90,8 +98,8 @@ LinkedIn: https://www.linkedin.com/in/chittibabu-bavisetti-6a444525b/
 GitHub: https://github.com/Chittibabu14
 
 
-
-📌 Future Improvements
+**
+📌 Future Improvements**
 
 Blog section for write-ups & CTFs
 
@@ -99,7 +107,7 @@ Bug bounty reports showcase
 
 Security tool automation demos
 
-
-🧠 Note
+**
+🧠 Note**
 
 This portfolio is actively evolving as I continue learning and improving my cybersecurity skills.
